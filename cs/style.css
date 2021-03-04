@@ -1,0 +1,32 @@
+@import "globals.css";
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap');
+
+body{
+  font-family: 'Roboto', sans-serif !important;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+/* heading section */
+.dice-heading{
+  padding: 20px 5px 40px 5px;
+}
+.dice-image{
+  width: 10%;
+}
+.dice-button-margin{
+  margin: 50px 50px 50px 50px;
+}
+
+/* scoreboard section */
+.player1-heading{
+  padding: 10px 5px 40px 5px;
+}
+.player2-heading{
+  padding-bottom: 40px;
+}
+
+/* footer  */
+.footer-icon{
+  padding: 5px 20px 30px 0px;
+}
